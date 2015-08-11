@@ -1,0 +1,18 @@
+{
+  "variable": {
+    "all_amis": {
+      "description": "The AMI to use",
+      "default": {
+        "eu-west-1": "ami-92f7a4e5",
+        "sa-east-1": "ami-c71c95da",
+        "us-east-1": "ami-7310be18",
+        "us-west-1": "ami-d7bb4593",
+        "us-west-2": "ami-a59f9495",
+        "eu-central-1": "ami-aa6067b7",
+        "ap-northeast-1": "ami-fcc47cfc",
+        "ap-southeast-1": "ami-74e5ea26",
+        "ap-southeast-2": "ami-b3581b89"
+      }
+    }
+  }
+}
